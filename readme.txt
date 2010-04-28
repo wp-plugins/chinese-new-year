@@ -2,7 +2,7 @@
 Contributors: Lc.
 Tags: New Year,China
 Requires at least: 2.6
-Tested up to: 2.9
+Tested up to: 2.9.2
 Stable tag: trunk
 
 Chinese NewYear
@@ -18,6 +18,7 @@ Related Links:
 * <a href="http://liucheng.name/1169/" target="_blank">Report a BUG</a>
 * <a href="http://liucheng.name/1169/" target="_blank">Suggest a Feature</a>
 * <a href="http://liucheng.name/1169/" title="Chinese NewYear 预览" target="_blank">Chinese NewYear 预览</a>
+* <a href="http://liucheng.name/" title="博百优">博百优</a>
 
 == Screenshots ==
 

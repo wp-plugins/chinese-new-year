@@ -3,8 +3,8 @@
 Plugin Name:Chinese NewYear
 Plugin URI: http://liucheng.name/1169/
 Description: Happy New Year! A wordpress Plugin for Chinese New Year.
-Author: Lc.
-Version: 1.0.0
+Author: 柳城
+Version: 1.0.1
 Author URI: http://liucheng.name/
 
 */

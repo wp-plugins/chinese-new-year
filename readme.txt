@@ -18,7 +18,9 @@ Related Links:
 * <a href="http://liucheng.name/1169/" target="_blank">Report a BUG</a>
 * <a href="http://liucheng.name/1169/" target="_blank">Suggest a Feature</a>
 * <a href="http://liucheng.name/1169/" title="Chinese NewYear 预览" target="_blank">Chinese NewYear 预览</a>
-* <a href="http://liucheng.name/" title="博百优">博百优</a>
+* <a href="http://liucheng.name/" title="柳城">柳城</a>
+
+* QQAS.Info »  <a href="http://qqas.info/" title="买车、购车、养车资讯与问答">QQAS</a>
 
 == Screenshots ==
 
